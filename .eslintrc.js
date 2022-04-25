@@ -18,5 +18,6 @@ module.exports = {
     'no-tabs': 'off',
     'no-unused-vars': 'warn',
     'require-jsdoc': 'off',
+    'max-len': ['warn', {'code': 90}],
   },
 };
