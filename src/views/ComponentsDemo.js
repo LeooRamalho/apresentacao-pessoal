@@ -17,7 +17,7 @@ export const ComponentsDemo = () =>
 
     <SearchField placeholder="Digite um nome de herói ou heroína" />
 
-    <Button ghost={true}>Buscar</Button>
+    <Button>Buscar</Button>
 
     <Card>
       <HeadingOne>Heading One</HeadingOne>

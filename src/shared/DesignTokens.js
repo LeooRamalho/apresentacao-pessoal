@@ -10,6 +10,7 @@ export const Colors = {
   GRAY_600: '#6C6C6C',
   GRAY_700: '#7B7B7B',
   GREEN_800: '#00A152',
+  PURPLE: '#52307c',
 };
 export const FontFamilies = {
   PRIMARY: '"Roboto", "Helvetica", "Arial", sans-serif',
