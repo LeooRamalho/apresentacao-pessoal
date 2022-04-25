@@ -24,7 +24,7 @@ export const App = () => (
           element={<ExperienciaPerfil />}
           exact
         ></Route>
-        <Route path="*" element={<NotFound />} exact></Route>
+        <Route path="*" element={<NotFound />}></Route>
 
       </Routes>
     </BrowserRouter>
